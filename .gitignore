@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+
+# Тяжёлые исходники остаются локально; сайт использует оптимизированные WebP.
+assets/images/photo_*.jpg
+assets/images/real/*.jpg
+assets/images/hero-*.png
+assets/images/hero-*.webp
+assets/images/project-*.png
+assets/images/project-*.webp
+assets/images/system-*.png
+assets/images/system-*.webp
+assets/images/comparison-*.png
+assets/images/comparison-*.webp
+assets/images/detail-*.png
+assets/images/detail-*.webp
+assets/images/samari-hero-architecture.*

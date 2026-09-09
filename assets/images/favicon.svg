@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Samari Pro">
+  <rect width="64" height="64" fill="#f3f1eb"/>
+  <rect x="8" y="8" width="48" height="48" fill="#181a18"/>
+  <rect x="13" y="13" width="38" height="38" fill="#f3f1eb"/>
+  <rect x="28" y="13" width="5" height="38" fill="#181a18"/>
+  <rect x="13" y="29" width="15" height="5" fill="#181a18"/>
+  <path d="M36 15l13-2v38l-13-2z" fill="#3f665b"/>
+  <rect x="38" y="21" width="2" height="22" fill="#f3f1eb" opacity=".8"/>
+</svg>
